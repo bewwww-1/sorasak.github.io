@@ -27,6 +27,14 @@
       "emoji": "🥐",
       "available": false,
       "tags": ["เบเกอรี่"]
+    },
+    {
+      "id": 4,
+      "name": "โค้ก",
+      "price": 17,
+      "emoji": "🥤",
+      "available": false,
+      "tags": ["น้ำ","เย็น", "ขายดี"]
     }
   ]
 }
