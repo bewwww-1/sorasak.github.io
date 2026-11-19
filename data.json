@@ -33,7 +33,7 @@
       "name": "โค้ก",
       "price": 17,
       "emoji": "🥤",
-      "available": false,
+      "available": true,
       "tags": ["น้ำ","เย็น", "ขายดี"]
     }
   ]
